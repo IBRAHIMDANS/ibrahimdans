@@ -10,13 +10,11 @@
 ### Knowledge
 
 * 📱  Mobile : React Native, Flutter, Kotlin
-* 🌐  Javascript : React JS, Angular, Vue.JS, Typescript, Express
-* 🔥  BackEnd : Nest JS, Express JS, Vue.JS, Typescript, Express
-* 🔒 Currently learning cybersecurity with [tryhackme.com](https://tryhackme.com/ibrahimdans)
+* 🌐  Javascript : React JS, Angular, Vue.JS
+* 🔥  BackEnd : Nest JS, Express JS
+* 🔒 Currently learning cybersecurity with [tryhackme.com](https://tryhackme.com)
 
 ### Interests
-* 🖼 Art and drawing : [Instagram](https://www.instagram.com/isaac__ink/)
-* 🎵 Music : Vaporwave 🐬 Classical music 🎻 Gorillaz 🦍 and more...
 * 🎮 Videogames
 * 🍱 Cooking
 <!--
