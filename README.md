@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimdans)](https://github.com/IBRAHIMDANS?tab=repositories)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimdans)](https://github.com/IBRAHIMDANS?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdans&langs_count=10)](https://github.com/IBRAHIMDANS?tab=repositories)
+![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/172?logoColor=white%26project=All%26recentMS=0%26showProject=false)
 
 
 
