@@ -10,7 +10,7 @@
 ### Knowledge
 
 * 📱  Mobile : React Native, Flutter, Kotlin
-* 🌐  Javascript : React JS, Angular, Vue.JS
+* 🌐  Javascript : React JS, Angular, Vue.JS, Python 
 * 🔥  BackEnd : Nest JS, Express JS
 * 🔒 Currently learning cybersecurity with [tryhackme.com](https://tryhackme.com)
 
@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimdans)](https://github.com/IBRAHIMDANS?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdans&langs_count=10)](https://github.com/IBRAHIMDANS?tab=repositories)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimdans)](https://github.com/IBRAHIMDANS?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdans&langs_count=10)](https://github.com/IBRAHIMDANS?tab=repositories)
+
 
 
 
