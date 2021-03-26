@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 - * 🐘  PHP : Symfony, Wordpress
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimdans)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimdans)](https://github.com/ibrahimdans/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdans&langs_count=10)](https://github.com/ibrahimdans/github-readme-stats)
+
 
