@@ -15,8 +15,8 @@
 * 🔒 Currently learning cybersecurity with [tryhackme.com](https://tryhackme.com)
 
 ### Interests
-* 🎮  Videogames
-* 🍱  Cooking
+* 🎮   Videogames
+* 🍱   Cooking
 <!--
 **IBRAHIMDANS/ibrahimdans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
