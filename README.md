@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimdans&count_private=true&show_icons=true)](https://github.com/IBRAHIMDANS?tab=repositories)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimdans&count_private=true&show_icons=true)](https://github.com/IBRAHIMDANS?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdans&langs_count=4)](https://github.com/IBRAHIMDANS?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdans&langs_count=5&layout=compact)](https://github.com/IBRAHIMDANS?tab=repositories)
 
 
 
