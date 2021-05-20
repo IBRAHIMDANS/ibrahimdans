@@ -9,7 +9,7 @@
 
 ### Knowledge
 
-* 📱  Mobile : React Native, Flutter, Kotlin
+* 📱  Mobile : React Native, Flutter, Kotlin, Swift
 * 🌐  Javascript : React JS, Angular, Vue.JS, Python 
 * 🔥  BackEnd : Nest JS, Express JS
 * 🔒 Currently learning cybersecurity with [tryhackme.com](https://tryhackme.com)
