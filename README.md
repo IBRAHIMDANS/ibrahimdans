@@ -6,7 +6,7 @@
 -   I’m currently working on React (React Js / React Native ) + Express Js / NestJS
 - 👯  I’m looking to collaborate on ^
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="vertical" data-theme="dark" data-vanity="ibrahimadansoko"><a class="LI-simple-link" href='https://fr.linkedin.com/in/ibrahimadansoko?trk=profile-badge'> - 💬  For more info you can always in Ibrahima D.</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="vertical" data-theme="dark" data-vanity="ibrahimadansoko"><a class="LI-simple-link" href='https://fr.linkedin.com/in/ibrahimadansoko?trk=profile-badge' target="_blank" > - 💬  For more info you can always in Ibrahima D.</a></div>
 
 ### Knowledge
 
