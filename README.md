@@ -13,11 +13,13 @@
 
 * 🔥 𝙁𝙧𝙤𝙣𝙩 𝙀𝙣𝙙
 
-React.Js [Next.Js], Angular, Vue.Js, [Nuxt.Js], Vulcan, Electron, Django, PrestaShop, Strapi, Gatsby
+React.Js [Next.Js], Angular, Vue.Js, [Nuxt.Js], Vulcan, Electron, Django, PrestaShop, Gatsby
 
-* 🔥 𝘽𝙖𝙘𝙠 𝙀𝙣𝙙
+* 🔥 𝘽𝙖𝙘𝙠 𝙀𝙣𝙙  
+ 
+[Rest api | GraphQL]
 
-Express, Nest.Js, Meteor, Koa, [Rest api | GraphQL]
+Express, Nest.Js, Meteor, Koa,Strapi
 
 * 🔥 𝑩𝒂𝒔𝒆 𝒅𝒆 𝒅𝒐𝒏𝒏𝒆́𝒆𝒔
 
