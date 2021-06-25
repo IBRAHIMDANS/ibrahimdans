@@ -13,7 +13,7 @@
 
 * 🔥 𝙁𝙧𝙤𝙣𝙩 𝙀𝙣𝙙
 
-React.Js [Next.Js], Angular, Vue.Js, [Nuxt.Js], Vulcan, Electron, Django, PrestaShop, Gatsby
+React.Js [Next.Js], Angular, Vue.Js [Nuxt.Js], Vulcan, Electron, Gatsby
 
 * 🔥 𝘽𝙖𝙘𝙠 𝙀𝙣𝙙  
  
@@ -23,11 +23,11 @@ Express, Nest.Js, Meteor, Koa,Strapi
 
 * 🔥 𝑩𝒂𝒔𝒆 𝒅𝒆 𝒅𝒐𝒏𝒏𝒆́𝒆𝒔
 
-MySql, Postgres, MongoDB, Elastic Search, Sqlite
+MySql, Postgres, MongoDB, Sqlite
 
 * 📱 𝑴𝒐𝒃𝒊𝒍𝒆
 
-React Native, Flutter, Ionic, Cordova, Kotlin, Swift | SwiftUI
+React Native, Ionic, Cordova
 
 * ∞ 𝑫𝒆𝒗𝑶𝒑𝒔
 
