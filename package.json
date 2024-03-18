@@ -1,0 +1,15 @@
+{
+  "name": "ibrahimdans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": " IbrahimDans .I'm a Web, mobile backend developers, I try to touch everything. I prefer the web for now.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}

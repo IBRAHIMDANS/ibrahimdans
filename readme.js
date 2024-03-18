@@ -1,4 +1,4 @@
-### Hi  I'm  is Ibrahima DANSOKO 👋
+module.exports = `### Hi  I'm  is <#name> 👋
 #### 🌟 **Full Stack Developer** with over **5 years of experience**, I am also enthusiastic about **Cyber Security and DevOps**.
 
 - **MBTI**: INFJ, reflecting my introspective nature and passion for meaningful projects.
@@ -9,12 +9,7 @@
 
 ### Contact me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ibrahimadansoko)
-&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ibrahimdans)
-&nbsp;[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](htttps://discord.gg/ibrahimdans)
-&nbsp;[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/ibrahimdans)
-&nbsp;[![Stack-overflow](https://img.shields.io/badge/Stackoverflow-%FE7A16.svg?logo=Stack-overflow&logoColor=white)](https://stackoverflow.com/users/12078007)
-
+<#socialLinks>
 
 
 #### Languages
@@ -112,7 +107,7 @@
 ![Profil View](https://komarev.com/ghpvc/?username=ibrahimdans&label=Profile%20views&color=0e75b6&style=for-the-badge "Viewers")<br/>
 
 
-Added to The 2020-10-06 <br/>
-Last update on Tue Dec 26 2023
+Added to The <#firstCreateReadme> <br/>
+Last update on <#today_date>
 
-This README.md is updated with envy, by ibrahimdans ❤️
+<#addAuthor>`;
