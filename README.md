@@ -18,17 +18,8 @@
 <div align="center">
 </div>
 
-
-###  Stats
-
-
 <div align="center" style="display: inline_block">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ibrahimdans&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdans&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimdans&theme=dark&hide_border=true&border_radius=4.7&locale=fr&ring=0969da&fire=0969da&sideLabels=0969da&currStreakNum=0969da&currStreakLabel=0969da">
-</div>
-<div align="center" style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimdans&theme=dark&hide_border=true&count_private=true&show_icons=true">
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimdans&theme=synthwave&hide_border=true&border_radius=4.7&locale=fr&ring=0969da&fire=0969da&sideLabels=0969da&currStreakNum=0969da&currStreakLabel=0969da">
 </div>
 
 
