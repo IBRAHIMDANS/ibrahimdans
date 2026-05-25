@@ -17,7 +17,6 @@
 
 <div align="center">
 </div>
-
 <div align="center" style="display: inline_block">
 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimdans&theme=synthwave&hide_border=true&border_radius=4.7&locale=fr&ring=0969da&fire=0969da&sideLabels=0969da&currStreakNum=0969da&currStreakLabel=0969da">
 </div>
