@@ -42,7 +42,6 @@ and help engineering teams level up. Enthusiastic about **Cyber Security and Dev
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimadansoko)
-&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibrahimdansoko@gmail.com)
 &nbsp;[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ibrahimdans)
 &nbsp;[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12078007)
 
